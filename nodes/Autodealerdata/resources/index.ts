@@ -1,0 +1,12 @@
+export { supplyDataDescription } from './supply-data';
+export { developerPlanOrGreaterDescription } from './developer-plan-or-greater';
+export { staticDataDescription } from './static-data';
+export { starterPlanOrGreaterDescription } from './starter-plan-or-greater';
+export { dealershipDataDescription } from './dealership-data';
+export { premiumDescription } from './premium';
+export { salesDataDescription } from './sales-data';
+export { analystPlanOrGreaterDescription } from './analyst-plan-or-greater';
+export { authenticationDescription } from './authentication';
+export { pricingDataDescription } from './pricing-data';
+export { vehicleDataDescription } from './vehicle-data';
+export { applicationAccelerationDescription } from './application-acceleration';
